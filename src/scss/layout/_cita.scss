@@ -1,0 +1,32 @@
+@use 'base/variables' as v;
+
+.seccion{
+
+    display: none;
+    width: 95%;
+    margin: auto;
+    padding: 5rem 0;
+
+    .text-center{
+        text-align: center;
+    }
+
+    
+
+    
+}
+
+.mostrar{
+    display: block;
+}
+.ocultar{
+    display: none;
+}
+
+// Estilos Sweet Alert
+.swal2-popup {
+    font-size: 1.6rem !important;
+    font-family: Georgia, serif;
+}
+
+
